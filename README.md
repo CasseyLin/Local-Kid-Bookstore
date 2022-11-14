@@ -27,7 +27,7 @@ This project is developed by,
 - CSS framework (Bootstrap-4)
 - jQuery, JavaScript
 
-**Note:** The name of this project is **"happykidsalaysia"** and **happykids.sql** file is inside the **'tool'** folder. If you want to make change the base folder as you want, you have to change the base_url from config and also change .htaccess file. 
+**Note:** The name of this project is **"happykidsmalaysia"** and **happykids.sql** file is inside the **'tool'** folder. If you want to make change the base folder as you want, you have to change the base_url from config and also change .htaccess file. 
 
 
 
