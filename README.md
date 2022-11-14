@@ -1,6 +1,6 @@
-# Happy Science Malaysia Website 
+# Happy Kids Malaysia Website 
 
-This is a project developed by **PHP framework (CodeIgniter)** for Happy Science Malaysia. This application is like an online books store where people can view and buy books online particularly Happy Science books. User can also view briefly the monthly magazine online. 
+This is a project developed by **PHP framework (CodeIgniter)** for Happy Kids Malaysia. This application is like an online books store where people can view and buy books online particularly Happy Kids books. User can also view briefly the monthly magazine online. 
 
 ## Key features:
 ### User
@@ -27,7 +27,7 @@ This project is developed by,
 - CSS framework (Bootstrap-4)
 - jQuery, JavaScript
 
-**Note:** The name of this project is **"happysciencemalaysia"** and **happyscience.sql** file is inside the **'tool'** folder. If you want to make change the base folder as you want, you have to change the base_url from config and also change .htaccess file. 
+**Note:** The name of this project is **"happykidsalaysia"** and **happykids.sql** file is inside the **'tool'** folder. If you want to make change the base folder as you want, you have to change the base_url from config and also change .htaccess file. 
 
 
 
